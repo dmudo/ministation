@@ -7,8 +7,8 @@
 
 char auth[] = "pb5w3cD2cdDs4SXEPsjXp5zrUG7m8yuA";
 
-char ssid[] = "KD-WiFi-2.4G-Sala";
-char pass[] = "jaburu@06042018?!&$%";
+char ssid[] = "#####";
+char pass[] = "#####";
 
 #define DHTPIN 4          // D2
 #define DHTTYPE DHT11
